@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1473389744 source:c:\users\usuario\desktop\trabajo practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EzequielAyala.h"
+
+1473389431 source:c:\users\usuario\desktop\trabajo practico\ezequielayala.c
+
+1473451961 c:\users\usuario\desktop\trabajo practico\ezequielayala.h
+
