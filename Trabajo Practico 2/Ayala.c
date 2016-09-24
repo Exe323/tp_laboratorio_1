@@ -36,7 +36,7 @@ void ordenarPersonas(EPersona lista[])
     {
         for(j=i+1;j<20;j++)
         {
-           if(strcmp(lista[i].nombre, lista[j].nombre>0));
+           if(stricmp(lista[i].nombre, lista[j].nombre<0));
            {
                aux=lista[i];
                lista[i]=lista[j];
@@ -46,11 +46,13 @@ void ordenarPersonas(EPersona lista[])
     }
     system("cls");
     printf("Nombre  Edad  DNI\n");
+    fflush(stdin);
 
     for(z=0;z<20;z++)
     {
         if(lista[i].estado==1);
         printf("%s   %d  %d\n", lista[z].nombre, lista[z].edad, lista[z].dni);
+        fflush(stdin);
     }
 }
 
